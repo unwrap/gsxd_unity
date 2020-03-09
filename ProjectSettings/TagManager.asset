@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - MainPlayer
+  - MiniMapCamera
+  - Map_Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Hide
+  - Map
+  - Player
+  - Bullet
+  - Goods
+  - MapOutWall
+  - Obstruct
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 2943700067
+    locked: 0
+  - name: player
+    uniqueID: 877671585
+    locked: 0
+  - name: fore
+    uniqueID: 1899902483
+    locked: 0
