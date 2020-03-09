@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 62cd7e0b3a08cf84e82658d9a3eaeb32
+labels:
+- BetterTrails
+- TrailRenderer
+- Smoke
+- Trail
+- Effects
+- skidmarks
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 1000
+  icon: {fileID: 2800000, guid: 8d56c6f37ee95884baa3b4f7e4837399, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

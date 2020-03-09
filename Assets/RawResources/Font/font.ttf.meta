@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 16b617fd18740b54e965cc424935b34d
+timeCreated: 1484897376
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ?????
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: atlasfont.u3d
+  assetBundleVariant: 

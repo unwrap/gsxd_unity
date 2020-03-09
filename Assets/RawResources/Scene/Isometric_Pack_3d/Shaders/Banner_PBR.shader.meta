@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7c03fbbfa1ab1114cb0603a2813380f9
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Texture: {fileID: 2800000, guid: fb7e809722580dc45b93fe4711520722, type: 3}
+  - _VectorTexture: {fileID: 2800000, guid: 8b97c3e80593993429f690283e78ff16, type: 3}
+  - _Mask: {fileID: 2800000, guid: c2b5b60d1c083ea419ffdbb8319442db, type: 3}
+  - _NormalMap: {fileID: 2800000, guid: 5946b8bfb534413468ffae10f0f47d30, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: shader.u3d
+  assetBundleVariant: 

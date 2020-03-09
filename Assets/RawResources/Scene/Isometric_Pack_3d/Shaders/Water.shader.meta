@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7c5c9c0be55758945b2db7b85f7951ff
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Normal: {fileID: 2800000, guid: 11fc85105913c1742a82a9e2a8b1a148, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: shader.u3d
+  assetBundleVariant: 

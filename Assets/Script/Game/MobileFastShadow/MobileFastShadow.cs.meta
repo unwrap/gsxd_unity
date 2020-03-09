@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a576738b9fc838c4ebfc8df2bbd8d093
+timeCreated: 1530331112
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - FollowTarget: {instanceID: 0}
+  - FalloffTex: {fileID: 2800000, guid: e83b22901fc3a0143abd3e3bbc2a44e4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

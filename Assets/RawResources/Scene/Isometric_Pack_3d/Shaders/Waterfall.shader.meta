@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e8fc4d3dbb3819346ba9e182bde02652
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _NormalMap1: {fileID: 2800000, guid: 469e586d7b8e93740b61b77ddbba7cd8, type: 3}
+  - _NormalMap2: {fileID: 2800000, guid: 3e73256bf73d13f46970d253bf32ce89, type: 3}
+  - _Waterfall1: {fileID: 2800000, guid: bb7679e4a90251745b0d74243ddae4b5, type: 3}
+  - _Waterfall2: {fileID: 2800000, guid: 79942d02ef6ebad46bc22ff74454d50b, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: shader.u3d
+  assetBundleVariant: 
